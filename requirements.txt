@@ -1,0 +1,21 @@
+# Install torch/torchvision using the official command from pytorch.org
+# For CPU only, you can just do: pip install torch torchvision torchaudio
+
+torch
+torchvision
+torchaudio
+
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+pandas
+scikit-learn
+tqdm
+pydicom
+opencv-python
+Pillow
+streamlit
+pydicom
+pylibjpeg
+pylibjpeg-libjpeg
+pylibjpeg-openjpeg

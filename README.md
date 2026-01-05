@@ -3,7 +3,7 @@ AlzhNet is an end‑to‑end deep learning project for early detection of Alzhei
 
 Under the hood, AlzhNet uses a custom CNN tailored for 2D MRI slices, trained with class‑balanced splits and data augmentation to handle the limited dataset size. During evaluation, the best checkpoint reaches around 79% test accuracy, with macro precision ≈ 0.82, macro recall ≈ 0.77, macro specificity ≈ 0.89, and macro ROC–AUC ≈ 0.93, showing that the model is not only accurate but also reasonably robust across all three classes, including the clinically critical MCI stage.
 
-## Check the Project out here: ​
+## Check the Project out here: https://alzhnet-alzheimers-mri-detection-4v3g8xbpbjc4rlfzerb7app.streamlit.app/​
 
 # On top of the model, the repo includes a full pipeline:
 
